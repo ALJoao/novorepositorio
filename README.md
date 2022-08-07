@@ -1,0 +1,2 @@
+# novorepositorio
+curso pythonicos
